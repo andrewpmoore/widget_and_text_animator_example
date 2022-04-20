@@ -1,2 +1,5 @@
-# widget_and_text_animator_example
-Sample project for widget and text animator flutter package
+# Widget and Text Animator example project
+
+Example project to showcase the widget and text animator
+
+View the [main project](https://github.com/andrewpmoore/widget_and_text_animator) here
